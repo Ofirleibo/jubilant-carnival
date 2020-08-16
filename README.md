@@ -1,4 +1,5 @@
 # jubilant-carnival
-ok
-Ofir
-Leibovitch
+
+## Editing the file
+
+ITs a markdown file in this repsitory
